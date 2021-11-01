@@ -36,7 +36,6 @@ public class Main {
         String mortal = "Unfortunately, it took you longer than 120 years, which is impossible for a mortal. Let's try again:";
         String freedom = "You have finally beaten the house within a lifetime. Please enjoy your fake million!";
         int [] lotteryTicket = new int [arraySize];
-        //int [] tempLotteryTicket = new int [arraySize];
         System.out.println(intro);
 //This portion validates the arguments the user may have given
         if(args.length == arraySize) {
