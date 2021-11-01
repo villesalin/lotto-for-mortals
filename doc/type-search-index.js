@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"fi.tuni.tamk.tiko.salinville.util","l":"Arrays"},{"p":"fi.tuni.tamk.tiko.salinville","l":"Main"},{"p":"fi.tuni.tamk.tiko.salinville.util","l":"Math"},{"p":"fi.tuni.tamk.tiko.salinville.util","l":"MyConsole"}];updateSearchResults();
