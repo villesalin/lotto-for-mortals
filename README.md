@@ -1,6 +1,5 @@
 # lotto-for-mortals
-A java program that tests whether it's statistically a good idea for mortals
-to play the lottery, by Ville Salin
+A java command line program that tests whether it's statistically a good idea for mortals to play the lottery, by Ville Salin
 
 This program was created as part of an introduction to programming course at the Tampere University of Applied Sciences. It is divided into multiple classes that contain methods written as part of the assignment.
 
