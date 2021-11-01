@@ -34,7 +34,7 @@ public class Main {
         String victory = "Congratulations, you won! It only took you ";
         String victory2 = " years!";
         String mortal = "Unfortunately, it took you longer than 120 years, which is impossible for a mortal. Let's try again:";
-        String freedom = "You have finally beaten the house within a lifetime. Please enjoy your fake million!";
+        String freedom = "You have finally beaten the house within a lifetime. Please enjoy your fake millions!";
         int [] lotteryTicket = new int [arraySize];
         System.out.println(intro);
 //This portion validates the arguments the user may have given
